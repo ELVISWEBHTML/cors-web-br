@@ -1,0 +1,13 @@
+{
+  "name": "consulta-api",
+  "version": "1.0.0",
+  "description": "API de consulta CPF, CNPJ e Portal da Transparência",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}
